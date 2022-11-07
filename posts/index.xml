@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ExampleSite</title>
-    <link>https://example.com/posts/</link>
-    <description>Recent content on ExampleSite</description>
+    <title>ヘンピンブックス</title>
+    <link>https://flat35hd99.github.io/henpinbooks/posts/</link>
+    <description>Recent content on ヘンピンブックス</description>
     <image>
-      <url>https://example.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://example.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://flat35hd99.github.io/henpinbooks/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://flat35hd99.github.io/henpinbooks/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://flat35hd99.github.io/henpinbooks/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>吾輩は猫である</title>
-      <link>https://example.com/posts/wagahai_ha_neko_de_aru/</link>
+      <link>https://flat35hd99.github.io/henpinbooks/posts/wagahai_ha_neko_de_aru/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://example.com/posts/wagahai_ha_neko_de_aru/</guid>
+      <guid>https://flat35hd99.github.io/henpinbooks/posts/wagahai_ha_neko_de_aru/</guid>
       <description>以下の文章は青空文庫からコピペしました。
 吾輩は猫である 夏目漱石
 一
